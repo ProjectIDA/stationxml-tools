@@ -9,6 +9,8 @@ This repository was inspired by [this blog post](https://coderwall.com/p/ssuaxa/
 
 The jar files can be found at [iris-edu/stationxml-validator](https://github.com/iris-edu/stationxml-validator) or [iris-edu/stationxml-seed-converter](https://github.com/iris-edu/stationxml-seed-converter)
 
+It's probably not necessary to archive the jar files in this repo, but it seems OK to hang onto them, "just in case".
+
 ## Making stationxml-validator
 
 To make the stationxml-validator executable, run the following line with the correct jar file version in the second command
